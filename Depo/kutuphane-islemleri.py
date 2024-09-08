@@ -4,6 +4,7 @@ print("pip install scikit-learn")
 print("pip install missingno")
 print("pip install ycimpute")
 print("pip install statsmodels")
+print("pip install skompiler")
 
 print("pip uninstall seaborn")
 print("pip list")
