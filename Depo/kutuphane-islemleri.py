@@ -7,6 +7,7 @@ print("pip install statsmodels")
 print("pip install skompiler")
 print("pip install xgboost")
 print("pip install lightgbm")
+print("pip install catboost")
 
 print("----------------")
 print("pip uninstall seaborn")
