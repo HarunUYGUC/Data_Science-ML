@@ -5,6 +5,7 @@ print("pip install missingno")
 print("pip install ycimpute")
 print("pip install statsmodels")
 print("pip install skompiler")
+print("pip install xgboost")
 
 print("pip uninstall seaborn")
 print("pip list")
