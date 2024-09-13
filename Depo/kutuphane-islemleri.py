@@ -8,6 +8,8 @@ print("pip install skompiler")
 print("pip install xgboost")
 print("pip install lightgbm")
 print("pip install catboost")
+print("pip install matplotlib")
+print("pip install yellowbrick")
 
 print("----------------")
 print("pip uninstall seaborn")
